@@ -1,0 +1,19 @@
+{
+    "name": "matmr7/microservices-commom",
+    "description": "Package main funcionalities in microservices",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Matmr7\\MicroservicesCommom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Morais",
+            "email": "ti.matheus.morais@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
